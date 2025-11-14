@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3906","Negative - Invalid Username","chromium","Fri Nov 14 12:31:40 IST 2025","passed","Fri Nov 14 12:31:44 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
+"","5228","Negative - Invalid Password","chromium","Fri Nov 14 12:31:45 IST 2025","passed","Fri Nov 14 12:31:50 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
+"","5811","Negative - Both Fields Empty","chromium","Fri Nov 14 12:32:01 IST 2025","passed","Fri Nov 14 12:32:06 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
+"","3976","Negative - Empty Username","chromium","Fri Nov 14 12:31:50 IST 2025","passed","Fri Nov 14 12:31:54 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
+"","10484","Positive - Valid Login and Logout","chromium","Fri Nov 14 12:31:28 IST 2025","passed","Fri Nov 14 12:31:39 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
+"","4244","Negative - Empty Password","chromium","Fri Nov 14 12:31:55 IST 2025","passed","Fri Nov 14 12:31:59 IST 2025","WebOrder Login Tests","WebOrder_Login_SeleniumtoPlay.spec.js","",""
