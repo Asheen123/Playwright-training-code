@@ -1,0 +1,83 @@
+package.json = POM.xml
+
+npx playwright codegen demo.playwright.dev/todomvc
+
+
+Playwright has 8 ways to locate and in it last way is using loactor inside that xpath and CSS.
+
+
+new xpath sysntax for test with spaces
+
+//div[normalize-space(text()) = 'Some Text']
+
+1347
+
+Some UI sites we can use to practise is
+
+Web orders
+
+
+Orange HRM
+
+https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers
+
+
+Javacsript mostly same as Java only three type of varaibles let,const,var.
+
+also geekforgeeks good for Javascript basics.
+
+two types of equal to
+
+== loose validation without data type
+
+===  strcit validation with data type also.
+
+
+
+
+//div[text()='Asheen@5678']//parent::div//following-sibling::div//i[@class='oxd-icon bi-pencil-fill']
+
+
+Anotaions
+
+before,beforeall, after,afterall, describe - for grouping test cases.
+
+In package.json devdepencies are playwright inbuilt librarries and external libraries are added in dependencies
+
+test.only to test particluar test case
+
+
+http://zero.webappsecurity.com/index.html
+Zero - Personal Banking - Loans - Credit Cards
+ 
+username: username
+password: password
+
+
+API
+
+2xx : 200-299 - Success
+3xx : 300-399 - re-diretcion - One API will call another API
+4xx : 400-499 - Client side error - bad request ->
+5xx : 500-599 - Server side Error -  
+
+
+// To test UI and API good URL's
+
+https://practice.expandtesting.com/notes/app
+
+https://practice.expandtesting.com/notes/api/api-docs/#/
+
+
+For any database first isntall the driver for that datanse like npm mysql
+
+
+abhinay.dixit@hotmail.com
+ 
+9902817060
+
+
+
+
+
+ 
